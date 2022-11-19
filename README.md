@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Denis
 Full-stack Developer
 --------------------
 
-Northrop & Johnson Full‑Stack Developer Juan Denis has always possessed a passion for programing. As a child, Juan enjoyed playing computer games. This hobby led him to create his own games using JavaScript, and he hasn’t looked back since. Juan began building full websites at age 15 and has since mastered HTML coding. Juan is constantly creating and learning as much as much as he can about emerging web technologies. He started in the yachting industry at a digital agency that specializes in yacht brokerage websites and CRM systems. Juan then transitioned to Northrop & Johnson where he is a valuable asset to the digital team and plays an integral role in enhancing Northrop & Johnson’s technological tools to better serve our clients.
+I have always possessed a passion for programming. As a child, I enjoyed playing computer games. This hobby led me to create my own games using JavaScript, and I haven’t looked back since. I began building full websites at age 15 and have since mastered HTML coding. I am constantly creating and learning as much as much as I can about emerging web technologies. I started in the yachting industry at a digital agency that specializes in yacht brokerage websites and CRM systems. I then transitioned to Northrop & Johnson where I am a valuable asset to the digital team and play an integral role in enhancing Northrop & Johnson’s technological tools to better serve our clients.
 
 * 🌍  I'm based in Miami, USA
 * 🚀  I'm currently working on [Northrop & Johnson](http://northropandjohnson.com/)
